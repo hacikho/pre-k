@@ -1,0 +1,8 @@
+.flip-list-move {
+  transition: transform 1s;
+}
+
+li {
+  font-size: 40px;
+  list-style-type: none;
+}
